@@ -14,7 +14,7 @@
 > s!lock (erros)
 > s!unlock (erros)
 > s!say
-
+>
 > Acão:
 > s!marry
 > s!divorce
@@ -24,12 +24,12 @@
 > s!die
 > s!angry
 > s!noticeme
-
+>
 > Utilities:
 > s!profile
 > s!avatar
 > s!ping
-
+>
 > s!botinfo
 > s!serverinfo
 > s!userinfo
