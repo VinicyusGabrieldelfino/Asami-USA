@@ -7,32 +7,32 @@
 > s!partners
 > 
 > Staff:
-> s!ban
-> s!kick
-> s!vaza
-> s!clear
+> s!ban {@}
+> s!kick {@}
+> s!vaza {@}
+> s!clear {2-99}
 > s!lock (erros)
 > s!unlock (erros)
-> s!say
+> s!say {msg}
 >
 > Acão:
-> s!marry
-> s!divorce
-> s!kiss
-> s!hug
-> s!slap
-> s!die
-> s!angry
-> s!noticeme
+> s!marry {@}
+> s!divorce {@}
+> s!kiss {@}
+> s!hug {@}
+> s!slap {@}
+> s!die {@}
+> s!angry {@}
+> s!noticeme {@}
 >
 > Utilities:
-> s!profile
-> s!avatar
+> s!profile {@}
+> s!avatar {@}
 > s!ping
 >
 > s!botinfo
 > s!serverinfo
-> s!userinfo
+> s!userinfo {@}
 > s!dev1
 > s!dev2
 > 
