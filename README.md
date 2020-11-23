@@ -1,42 +1,39 @@
-> ```cs
-> Bot Prefix: "s!"
-> 
-> See Me:
-> s!help
-> s!ajuda
-> s!partners
-> 
-> Staff:
-> s!ban {@}
-> s!kick {@}
-> s!vaza {@}
-> s!clear {2-99}
-> s!lock (erros)
-> s!unlock (erros)
-> s!say {msg}
->
-> Acão:
-> s!marry {@}
-> s!divorce {@}
-> s!kiss {@}
-> s!hug {@}
-> s!slap {@}
-> s!die {@}
-> s!angry {@}
-> s!noticeme {@}
->
-> Utilities:
-> s!profile {@}
-> s!avatar {@}
-> s!ping
->
-> s!botinfo
-> s!serverinfo
-> s!userinfo {@}
-> s!dev1
-> s!dev2
-> 
-> Music:
-> s!spotify_br
-> s!spotify_en
-> ```
+Bot Prefix: "a!"
+
+ See Me:
+ a!help
+ a!ajuda
+ a!partners
+ 
+ Administrative:
+ a!ban {@}
+ a!kick {@}
+ a!vaza {@}
+ a!clear {2-99}
+ a!lock (erros)
+ a!unlock (erros)
+ a!say {msg}
+
+ Fun:
+ a!marry {@}
+ a!divorce {@}
+ a!kiss {@}
+ a!hug {@}
+ a!slap {@}
+ a!die {@}
+ a!angry {@}
+ a!noticeme {@}
+
+ Utilities:
+ a!profile {@}
+ a!avatar {@}
+ a!ping
+
+ a!botinfo
+ a!serverinfo
+ a!userinfo {@}
+ a!dev1
+ a!dev2
+ 
+ Music:
+ a!spotify
